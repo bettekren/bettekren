@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Betul</h1>
 <h3 align="center">I'm a student of Computer Engineering</h3>
 
-- 🌱 I’m currently learning **learning Flutter.**
+- 🌱 I’m currently  **learning Flutter.**
 
 - 📫 How to reach me **betulekren2201@gmail.com**
 
